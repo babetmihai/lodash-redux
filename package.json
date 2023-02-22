@@ -1,0 +1,15 @@
+{
+  "name": "lodash-redux",
+  "version": "1.0.0",
+  "description": "redux actions implemented using lodash functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babetmihai/lodash-redux"
+  },
+  "author": "Mihai Babet",
+  "license": "ISC"
+}
