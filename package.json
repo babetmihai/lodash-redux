@@ -1,15 +1,24 @@
 {
   "name": "lodash-redux",
-  "version": "1.0.0",
-  "description": "redux actions implemented using lodash functions",
+  "version": "1.0.1",
+  "description": "Reducer that can update and access the store using object paths",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "keywords": [
+    "redux",
+    "reducer",
+    "lodash",
+    "get",
+    "set"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/babetmihai/lodash-redux"
   },
   "author": "Mihai Babet",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1"
+  }
 }
